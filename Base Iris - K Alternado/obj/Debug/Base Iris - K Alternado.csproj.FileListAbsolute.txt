@@ -1,0 +1,7 @@
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Iris - K Alternado\obj\Debug\Base Iris - K Alternado.csprojAssemblyReference.cache
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Iris - K Alternado\obj\Debug\Base Iris - K Alternado.csproj.CoreCompileInputs.cache
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Iris - K Alternado\bin\Debug\Base Iris - K Alternado.exe.config
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Iris - K Alternado\bin\Debug\Base Iris - K Alternado.exe
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Iris - K Alternado\bin\Debug\Base Iris - K Alternado.pdb
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Iris - K Alternado\obj\Debug\Base Iris - K Alternado.exe
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Iris - K Alternado\obj\Debug\Base Iris - K Alternado.pdb

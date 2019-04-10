@@ -1,0 +1,7 @@
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wireless - K fixo\obj\Debug\Base Wine - K fixo.csprojAssemblyReference.cache
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wireless - K fixo\obj\Debug\Base Wine - K fixo.csproj.CoreCompileInputs.cache
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wireless - K fixo\bin\Debug\Base Wireless - K fixo.exe.config
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wireless - K fixo\bin\Debug\Base Wireless - K fixo.exe
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wireless - K fixo\bin\Debug\Base Wireless - K fixo.pdb
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wireless - K fixo\obj\Debug\Base Wireless - K fixo.exe
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wireless - K fixo\obj\Debug\Base Wireless - K fixo.pdb

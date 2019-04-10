@@ -1,0 +1,7 @@
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wine - K alternado\bin\Debug\Base Wine - K alternado.exe.config
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wine - K alternado\bin\Debug\Base Wine - K alternado.exe
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wine - K alternado\bin\Debug\Base Wine - K alternado.pdb
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wine - K alternado\obj\Debug\Base Wine - K alternado.csprojAssemblyReference.cache
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wine - K alternado\obj\Debug\Base Wine - K alternado.csproj.CoreCompileInputs.cache
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wine - K alternado\obj\Debug\Base Wine - K alternado.exe
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wine - K alternado\obj\Debug\Base Wine - K alternado.pdb

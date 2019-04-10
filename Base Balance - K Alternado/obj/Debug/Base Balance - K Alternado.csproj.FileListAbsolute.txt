@@ -1,0 +1,7 @@
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Balance - K Alternado\bin\Debug\Base Balance - K Alternado.exe.config
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Balance - K Alternado\bin\Debug\Base Balance - K Alternado.exe
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Balance - K Alternado\bin\Debug\Base Balance - K Alternado.pdb
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Balance - K Alternado\obj\Debug\Base Balance - K Alternado.csprojAssemblyReference.cache
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Balance - K Alternado\obj\Debug\Base Balance - K Alternado.csproj.CoreCompileInputs.cache
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Balance - K Alternado\obj\Debug\Base Balance - K Alternado.exe
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Balance - K Alternado\obj\Debug\Base Balance - K Alternado.pdb

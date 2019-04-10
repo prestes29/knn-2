@@ -1,0 +1,7 @@
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wirelles - K fixo\obj\Debug\Base Balance - K fixo.csprojAssemblyReference.cache
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wirelles - K fixo\obj\Debug\Base Balance - K fixo.csproj.CoreCompileInputs.cache
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wirelles - K fixo\bin\Debug\Base Wirelles - K fixo.exe.config
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wirelles - K fixo\bin\Debug\Base Wirelles - K fixo.exe
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wirelles - K fixo\bin\Debug\Base Wirelles - K fixo.pdb
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wirelles - K fixo\obj\Debug\Base Wirelles - K fixo.exe
+C:\Users\Prestes-Noot\source\repos\ConsoleApp1\Base Wirelles - K fixo\obj\Debug\Base Wirelles - K fixo.pdb

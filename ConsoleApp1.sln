@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{46060B72-681F-4BA3-A0D2-1B8C825C85F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base Iris - K fixo", "ConsoleApp1\Base Iris - K fixo.csproj", "{46060B72-681F-4BA3-A0D2-1B8C825C85F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base Iris - K Alternado", "Base Iris - K Alternado\Base Iris - K Alternado.csproj", "{68AE151D-8D6A-4743-BBA7-E443FFFBEA84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base Balance - K fixo", "Base Wirelles - K fixo\Base Balance - K fixo.csproj", "{0ABB0266-70C8-44E5-B5D1-DF61934CD856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base Balance - K Alternado", "Base Balance - K Alternado\Base Balance - K Alternado.csproj", "{D6C7226A-62DF-4FCF-996F-93241124EBBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base Wine - K fixo", "Base Wireless - K fixo\Base Wine - K fixo.csproj", "{E720DBBD-F66F-4BB2-B705-5F6F37B1E8B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base Wine - K alternado", "Base Wine - K alternado\Base Wine - K alternado.csproj", "{EEA9E67D-DD73-412F-A564-861E61CF34AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{46060B72-681F-4BA3-A0D2-1B8C825C85F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46060B72-681F-4BA3-A0D2-1B8C825C85F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46060B72-681F-4BA3-A0D2-1B8C825C85F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68AE151D-8D6A-4743-BBA7-E443FFFBEA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AE151D-8D6A-4743-BBA7-E443FFFBEA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AE151D-8D6A-4743-BBA7-E443FFFBEA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AE151D-8D6A-4743-BBA7-E443FFFBEA84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABB0266-70C8-44E5-B5D1-DF61934CD856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABB0266-70C8-44E5-B5D1-DF61934CD856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABB0266-70C8-44E5-B5D1-DF61934CD856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABB0266-70C8-44E5-B5D1-DF61934CD856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C7226A-62DF-4FCF-996F-93241124EBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C7226A-62DF-4FCF-996F-93241124EBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C7226A-62DF-4FCF-996F-93241124EBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C7226A-62DF-4FCF-996F-93241124EBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E720DBBD-F66F-4BB2-B705-5F6F37B1E8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E720DBBD-F66F-4BB2-B705-5F6F37B1E8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E720DBBD-F66F-4BB2-B705-5F6F37B1E8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E720DBBD-F66F-4BB2-B705-5F6F37B1E8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA9E67D-DD73-412F-A564-861E61CF34AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA9E67D-DD73-412F-A564-861E61CF34AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA9E67D-DD73-412F-A564-861E61CF34AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA9E67D-DD73-412F-A564-861E61CF34AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
